@@ -1,4 +1,4 @@
-# k-means-clustering-2dpoint
+# k-means Clustering: 2D points
 
 Implemented k-means algorithm to cluster a set of 1000 2D points. The data points (x,y) will be generated via Gaussian distribution.
 
